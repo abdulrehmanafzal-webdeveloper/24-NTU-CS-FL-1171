@@ -1,0 +1,14 @@
+C:\Users\AR\Desktop\Home Task 3 24-NTU-CS-FL-1171\Q # 1\bin\Debug\Q # 1.exe.config
+C:\Users\AR\Desktop\Home Task 3 24-NTU-CS-FL-1171\Q # 1\bin\Debug\Q # 1.exe
+C:\Users\AR\Desktop\Home Task 3 24-NTU-CS-FL-1171\Q # 1\bin\Debug\Q # 1.pdb
+C:\Users\AR\Desktop\Home Task 3 24-NTU-CS-FL-1171\Q # 1\obj\Debug\Q # 1.csproj.AssemblyReference.cache
+C:\Users\AR\Desktop\Home Task 3 24-NTU-CS-FL-1171\Q # 1\obj\Debug\Q # 1.csproj.CoreCompileInputs.cache
+C:\Users\AR\Desktop\Home Task 3 24-NTU-CS-FL-1171\Q # 1\obj\Debug\Q # 1.exe
+C:\Users\AR\Desktop\Home Task 3 24-NTU-CS-FL-1171\Q # 1\obj\Debug\Q # 1.pdb
+C:\Users\AR\Desktop\Home Task 4 24-NTU-CS-FL-1171\Q # 1\bin\Debug\Q # 1.exe.config
+C:\Users\AR\Desktop\Home Task 4 24-NTU-CS-FL-1171\Q # 1\bin\Debug\Q # 1.exe
+C:\Users\AR\Desktop\Home Task 4 24-NTU-CS-FL-1171\Q # 1\bin\Debug\Q # 1.pdb
+C:\Users\AR\Desktop\Home Task 4 24-NTU-CS-FL-1171\Q # 1\obj\Debug\Q # 1.csproj.AssemblyReference.cache
+C:\Users\AR\Desktop\Home Task 4 24-NTU-CS-FL-1171\Q # 1\obj\Debug\Q # 1.csproj.CoreCompileInputs.cache
+C:\Users\AR\Desktop\Home Task 4 24-NTU-CS-FL-1171\Q # 1\obj\Debug\Q # 1.exe
+C:\Users\AR\Desktop\Home Task 4 24-NTU-CS-FL-1171\Q # 1\obj\Debug\Q # 1.pdb
